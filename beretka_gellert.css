@@ -1,0 +1,9 @@
+img {
+    max-width: 400px;
+}
+body{
+    color: whitesmoke;
+    background-image: url('BG_hatterkep.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
