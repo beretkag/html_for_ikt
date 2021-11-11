@@ -1,0 +1,51 @@
+img
+{
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+    margin: auto;
+    box-shadow: 7px 7px 7px 7px lightslategray;
+    
+}
+
+span
+{
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 10px;
+}
+
+p
+{
+    word-spacing: 10px;
+}
+
+h1
+{
+    color: darkblue;
+    word-spacing: 15px;
+}
+
+h6
+{
+    font-size: larger;
+}
+
+body
+{
+    background-color: darkgray;
+}
+
+hr
+{
+    height: 5px;
+    color: gray;
+    border-color: gray;
+}
+
+.keret
+{
+    border: solid;
+    border-color: grey;
+    background-color: lightgrey;
+}
