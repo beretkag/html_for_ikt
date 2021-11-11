@@ -1,9 +1,17 @@
 img {
-    max-width: 400px;
+    max-width: 300px;
 }
 body{
     color: whitesmoke;
-    background-image: url('BG_hatterkep.jpg');
+    background-image: url('allo_hatterkep_BG.jpg');
     background-repeat: no-repeat;
     background-size:cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.jobbra {
+    text-align: right;
 }
