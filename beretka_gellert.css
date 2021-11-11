@@ -15,3 +15,17 @@ h1 {
 .jobbra {
     text-align: right;
 }
+
+.kep {
+    float: left;
+    margin-right: 30px;
+}
+
+.bemutatkozas {
+    margin-right: 350px;
+}
+
+#link {
+    float: right;
+}
+
